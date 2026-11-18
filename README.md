@@ -1,4 +1,6 @@
 **Project name:**  Inventory Management System
+Name - Rudra Pratap Singh
+Roll No - 2501730451
 
 
 ## Main features
